@@ -36,3 +36,10 @@
   width:200px;
   height:100%;
 }
+.list-threads{
+border: 1px solid rgb(202, 202, 202);
+overflow-y:scroll;
+}
+.Link{
+  text-decoration:none;
+}
